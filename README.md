@@ -1,3 +1,7 @@
+
+vercel-deployment-link: https://gdg-kmit.vercel.app/
+
+
 # ⚡ AgentX 2.0 — AI-Powered Productivity Toolkit
 
 > **Your complete AI productivity suite.** Weather, Tasks, CSV Analytics, AI Search, Goal Tracking, and Email Notifications — all beautifully integrated into a sleek 6-tool dashboard.
